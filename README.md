@@ -67,10 +67,10 @@ pip install numpy pandas matplotlib scipy
 - **Appearance Settings**
   - Colors, markers, and line styles are defined in the script.
   - Modify the following variables for different visualization preferences:
-      markersize = 15: Sets the size of the markers in the plot.
-      markevery = 5: Defines the interval at which markers appear along the line.
-      linewidth = 4: Specifies the thickness of the plotted lines.
-      leg_font_size = 12: Adjusts the font size of the legend text.
+      - markersize = 15: Sets the size of the markers in the plot.
+      - markevery = 5: Defines the interval at which markers appear along the line.
+      - linewidth = 4: Specifies the thickness of the plotted lines.
+      - leg_font_size = 12: Adjusts the font size of the legend text.
 - **Environment & Algorithm Mapping**
   - The script uses predefined mappings (`env_limits`, `env_tiles`, `env_optima`).
     - env_limits represents the length of the data.
