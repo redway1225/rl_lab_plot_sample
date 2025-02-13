@@ -76,7 +76,8 @@ pip install numpy pandas matplotlib scipy
     - env_limits represents the length of the data.
     - env_optima represents the constant line data used for reference.
   - To add new environments or algorithms, update these dictionaries.
-
+    
 ---
+* Note: The plotting order of multiple figures follows the sequence defined in env_limits.
 
 
